@@ -1,6 +1,7 @@
 /*
   Luca Ribeiro - 2112662 - 3WA
   Thiago Becker - 2110449 - 3WA
+  Nota: 10.0
 */
 
 #include <stdio.h>
